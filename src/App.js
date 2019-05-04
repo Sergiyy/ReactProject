@@ -1,6 +1,6 @@
 import React, { Component} from 'react';
-import logo from './logo.svg';
-import Radium { StyleRoot } from 'radium';
+//import logo from './logo.svg';
+import Radium, { StyleRoot } from 'radium';
 import './App.css';
 import Person from './Person/Person';
 
